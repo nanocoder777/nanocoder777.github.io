@@ -2,7 +2,7 @@
 // Add this to your main HTML or as a separate file
 
 const FATE_CHANGELOG = {
-  version: "4.0.0",
+  version: "4.0.1",
   date: "2026-03-17",
   
   // Startup notification (brief)
